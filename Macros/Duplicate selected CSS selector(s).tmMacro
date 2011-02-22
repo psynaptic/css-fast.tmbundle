@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>copy:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>paste:</string>
+		</dict>
+		<dict>
+			<key>argument</key>
+			<string>,</string>
+			<key>command</key>
+			<string>insertText:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>insertNewline:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>paste:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>Duplicate selected CSS selector(s)</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>uuid</key>
+	<string>3936BD43-356C-4451-88CC-719CCC854F6D</string>
+</dict>
+</plist>
