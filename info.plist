@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>_CSS</string>
+	<string>CSS Fast</string>
 	<key>ordering</key>
 	<array>
+		<string>3936BD43-356C-4451-88CC-719CCC854F6D</string>
 		<string>4F23CEDD-4F29-4AE1-B281-C1149EA815A0</string>
 		<string>279CD204-4123-436B-A149-24381F62B9AC</string>
 		<string>A63B95AB-0B77-409A-BA25-AF287C11DBFE</string>
